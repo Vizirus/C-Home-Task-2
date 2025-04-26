@@ -1,4 +1,6 @@
 
 <h1><b>This is c# home task 2 for OOP</b></h1>
-<h5>First Commit</h5>
+<h4>First Commit</h4>
 <p>Adds the base layer of the program</p>
+<h4>Second Commit</h4>
+<p>Implemented function to serialize JSON and save it to the file. Applied logic to deserialize the files</p>
