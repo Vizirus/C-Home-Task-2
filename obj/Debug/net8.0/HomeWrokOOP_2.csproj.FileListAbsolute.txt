@@ -1,0 +1,14 @@
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\bin\Debug\net8.0\HomeWrokOOP_2.exe
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\bin\Debug\net8.0\HomeWrokOOP_2.deps.json
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\bin\Debug\net8.0\HomeWrokOOP_2.runtimeconfig.json
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\bin\Debug\net8.0\HomeWrokOOP_2.dll
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\bin\Debug\net8.0\HomeWrokOOP_2.pdb
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.AssemblyInfoInputs.cache
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.AssemblyInfo.cs
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.csproj.CoreCompileInputs.cache
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.dll
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\refint\HomeWrokOOP_2.dll
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.pdb
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\HomeWrokOOP_2.genruntimeconfig.cache
+D:\Artem\Файли\Унік\2 semest\OOP\C#\HomeWrokOOP_2\HomeWrokOOP_2\obj\Debug\net8.0\ref\HomeWrokOOP_2.dll
