@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HomeWrokOOP_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1524b97e3376f1acce5e0a5e1605a9d7af5679b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c59185d1d7ab39aa8fb207afed33430cbe819987")]
 [assembly: System.Reflection.AssemblyProductAttribute("HomeWrokOOP_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HomeWrokOOP_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
